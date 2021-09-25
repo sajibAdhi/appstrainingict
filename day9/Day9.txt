@@ -1,0 +1,9 @@
+Q1: What is container ?
+Ans: Container is a Parent Widget.
+
+Q2: What is network Image and assets Image?
+Ans: Which image we assign or import using url are called Network Image.
+	Which Image we as sourcce file we called then assets Image.
+
+Q3. How to add Icon?
+Ans: By Icon Widget we can add Icons;
