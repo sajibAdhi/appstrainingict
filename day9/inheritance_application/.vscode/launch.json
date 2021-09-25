@@ -8,7 +8,7 @@
             "name": "inheritance_application",
             "request": "launch",
             "type": "dart",
-            "cwd": "${workspaceFolder}//bin//inheritance_application.dart"
+            "program": "${workspaceFolder}//bin//inheritance_application.dart"
         }
     ]
 }
