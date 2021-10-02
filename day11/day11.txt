@@ -10,3 +10,7 @@ This is a mutable Widget.
 
 
 PageView.buildder , ListView.builder, ListView.seperated are Same.
+
+
+Q3. What is Splash Screen?
+A. A Screen which appears for a fixed duaration. It is also called a Loading Screen.
