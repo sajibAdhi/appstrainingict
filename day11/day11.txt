@@ -7,3 +7,6 @@ Q2. What is Stateful Widget?
 A1. StatFul widget is a dynamic widget. 
 Whose properties data can changes many times in it's lifetime.
 This is a mutable Widget. 
+
+
+PageView.buildder , ListView.builder, ListView.seperated are Same.
