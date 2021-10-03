@@ -1,0 +1,16 @@
+Q1. What is Stateless Widget?
+A1. Statless widget is a static widget. 
+Whose properties data can changes once in it's lifetime.
+This is a immutable Widget. 
+
+Q2. What is Stateful Widget?
+A1. StatFul widget is a dynamic widget. 
+Whose properties data can changes many times in it's lifetime.
+This is a mutable Widget. 
+
+
+PageView.buildder , ListView.builder, ListView.seperated are Same.
+
+
+Q3. What is Splash Screen?
+A. A Screen which appears for a fixed duaration. It is also called a Loading Screen.
