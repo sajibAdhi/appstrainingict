@@ -1,0 +1,12 @@
+Q1. What is State?
+A1. State is a Information;
+
+Q2. Type of States?
+A. 
+
+    1)Ephemeral state (sometimes called UI state or local state)
+    is the state you can neatly contain in a single widget.
+
+    2) State that is not ephemeral, that you want to share across many 
+    parts of your app, and that you want to keep between user sessions, 
+    is what we call application state (sometimes also called shared state).
