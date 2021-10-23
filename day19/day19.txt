@@ -1,0 +1,2 @@
+Q1. What is TextField?
+A1. TextField is a text input widget, which allow users to give input by Keyboard.
