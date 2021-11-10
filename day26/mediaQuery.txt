@@ -9,3 +9,4 @@ A: A device's size orientation.
 
 Q: What is wrap widget?
 A: Wrap weighet is a alternatiove of Row and Column.
+    Multiple horizontal and vertical widgets can be placed in a single widget.
