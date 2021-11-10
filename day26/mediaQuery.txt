@@ -1,0 +1,11 @@
+Q: What is Media Query?
+A: A device's size orientation.
+    In orientation :
+    1: minHeight;
+    2: maxHeight;
+    3: Block;
+    4: height;
+    5: width;
+
+Q: What is wrap widget?
+A: Wrap weighet is a alternatiove of Row and Column.
